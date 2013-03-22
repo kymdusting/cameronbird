@@ -1,0 +1,105 @@
+/*BodyFix*/
+body { overflow-x:hidden}
+
+/*Main Wrappers
+===============*/
+.main_wrapper { background:url(../images/body-bg.gif) 0 0 repeat; width:1020px; margin:0 auto; text-align:center; box-shadow:0px 0px 20px rgba(0,0,0,.47); text-align:left}
+
+/*Header
+========*/
+	header { border-top:#414141 5px solid; position:relative; z-index:10}
+	header .red_line { background:#ed1c24; height:5px; width:303px; display:block; position:absolute; left:0; top:-5px}
+	/*Logo*/
+	@font-face {font-family:"Oswald Light";src:url("fonts/Oswald-Light.eot?") format("eot"),url("fonts/Oswald-Light.woff") format("woff"),url("fonts/Oswald-Light.ttf") format("truetype"),url("fonts/Oswald-Light.svg#Oswald-Light") format("svg");font-weight:normal;font-style:normal;}
+	.logo { 
+		position:absolute;
+		left:40px;
+		top:43px;
+		height:58px;
+		display:block;
+		font-family:"Oswald Light";
+		font-size:40px;
+		line-height:1.2em;
+		text-decoration:none;
+		color:#000;
+	}
+	/*MainMenu*/
+	nav.head_nav { margin:128px 0 0 0; background:url(../images/bg_menu1-x.png) repeat-x; position:relative; height:54px}
+	.mainmenu { margin:0; padding:0; position:relative; z-index:10;}
+	.mainmenu li { float:left; padding:0; margin:0; position:relative;}
+	.mainmenu li.sep { width:1px!important; background:url(../images/sep_menu.gif) no-repeat center!important; display:block; height:52px}
+	.mainmenu li a { display:block; width:auto; padding: 16px 1.6em; text-align:center; line-height:20px; font-size:12px; text-decoration:none; color:#555; font-family: 'Cuprum', sans-serif;text-transform:uppercase;}
+	.mainmenu li a:hover{color:#010101;}
+	.mainmenu li.act a { color:#010101!important;}
+	.menu_indicator { width:100px; height:100%; background:#f8f8f8 url(../images/bg_menu2-x.png) repeat-x; position:absolute; left:0px; top:0px; z-index:0}
+		/*Submenu*/
+	.level1 { left:0px; top:54px;}
+	.level2 { left:200px; top:0px;}
+	.level2r { left:-200px; top:0px;}
+	.mainmenu li ul.sub_menu { margin:0; padding:0; position:absolute; overflow:visible; display:none}
+	.mainmenu li ul.sub_menu li { float:none; background:#f6f6f6; border:#dbdbdb 1px solid;border-top:none;width:200px; position:relative;}
+	.mainmenu li ul.sub_menu li a { display:block; padding:10px 25px; line-height:14px; font-size:13px; color:#555; font-family: 'Cuprum', sans-serif; text-transform:none; text-align:left}
+	.mainmenu li ul.sub_menu li:hover>a{color:#000;}
+		/*MobileMenu*/
+	.mobile_nav { display:none}
+	.mobile_menu { display:none}
+	
+	/*Soicials*/
+	.socials { margin:0; padding:0; position:absolute; right:40px; top:55px; overflow:hidden;}
+	.socials li { width:21px; height:17px; margin:0 5px 0 0; float:left}
+	.socials li a { width:21px; height:17px; display:block;}
+	
+/*Slider
+========*/
+	.top_slider { width:1020px; padding-bottom:5px; background:#e4e4e4 url(../images/bg_subslider.gif) repeat-y left; overflow:hidden}
+	#top_slider { overflow:hidden}
+
+/*Main Container
+================*/
+	.site_container { padding:0 30px}
+	.slogan { padding:25px 0; border-bottom:#efefef 1px solid; margin-bottom:25px!important; color:#555555; font-family:font-family: 'Cuprum', sans-serif; line-height:30px; font-size:18px;}
+	.slogan h1 { margin-bottom:0}
+	.slogan span { font-size:23px; line-height:30px; color:#555555; font-family:font-family: 'Cuprum', sans-serif; display:block}
+	.bf_block { background:url(../images/bf_block.gif) 0 0 repeat; margin:20px 0 40px 0; padding:40px 30px; border-bottom:#efefef 1px solid; border-top:#efefef 1px solid}
+		/*Sliding Gallery*/
+	.slider1_list { overflow:hidden;}
+	.slider1_list li { text-align:left; background:#eee; padding:0; border-bottom:#dbdbdb 1px solid; font-size:13px; font-style:italic; color:#7b7b7b; cursor:pointer; float:left;font-size:13px;padding}
+	.slider1_list li img { margin-bottom:1px}
+	.slider1_list li h3 { color:#555555; margin-bottom:10px; font-style:normal}
+	.slider1_list li .slide-content{
+		padding:20px 13px 20px 13px;
+		box-shadow:0px 0px 1px 0px #cdcdcd;
+		overflow:hidden;
+	}
+		/*Seperators*/
+	.seperator {background:url(../images/bg_grey_pix.png) repeat-y ; overflow:hidden}
+	.seperator_after8 { background-position:50% 0}
+	.seperator_right { background-position: 75% 0}	
+	.seperator_left { background-position: 25% 0}	
+
+/*Aside
+=======*/
+	.aside { padding:40px 30px 55px 30px; background:url(../images/footer-bg.gif) 0 0 repeat; margin-top:20px}
+	.footer_logo{
+		color:#fff;
+		font-family:'Oswald Light';
+		font-size:25px;
+		line-height:1.2em;
+		text-decoration:none;
+		display:inline-block;
+		margin-bottom:20px;
+	}
+	.copyright_text{
+		color:#9f9f9f;
+		font-style:italic;
+		padding-right:28px;
+	}
+	.copyright{
+		color:#fff;
+		padding-top:25px;
+	}
+	
+/*Footer
+==================*/
+	footer { position:relative;}
+		

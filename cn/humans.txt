@@ -1,0 +1,9 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Web Designer: Kym Dusting
+  Site: http://lightiseverything.com
+  Twitter: https://twitter.com/#!/light_tweets
+  Location: 
