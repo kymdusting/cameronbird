@@ -71,7 +71,7 @@
 <?php if ($title == 'Home') { ?>
     <div class="simple_overlay" id="mies1">
         <h1><img alt="The Cameron Bird Group" src="images/cbird-text.png" /></h1>
-        <h2>Join Australia's most advanced property investment portal now for free.</h2>
+        <!-- <h2>Join Australia's most advanced property investment portal now for free.</h2> -->
         <p>Over 10,000 members and 35 years of helping investors.</p>
         <p class="mandatory"><span>*</span> Mandatory fields</span></p>
         <form action="<?=$_SERVER['PHP_SELF']; ?>" method="get">
