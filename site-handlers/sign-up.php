@@ -2,7 +2,7 @@
 
 function signUp(){
 
-    $to      = 'chris@cameronbird.com.au; kym@lie.lv';
+    $to      = 'admin@cameronbird.com.au';
     $subject = 'Urgent : From Cameron Bird Sign Up';
     $stringData = "First Name: " . $_GET['fname'] . "\r\n";
     $stringData = $stringData . "Last Name: " . $_GET['lname'] . "\r\n";

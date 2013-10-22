@@ -25,16 +25,16 @@ $title = 'Property Investment Alerts';
     <li>unique characteristics of the investment not available to general public</li>
 </ul>
 <p>The good news is you don't have to pay for our services; they are totally free as the vendors pay our fees.
-Are you serious about investing? <a href="http://lightiseverything.com.au/cameronbird/contacts.php">Simply subscribe now</a></p>
+Are you serious about investing? <a href="contacts.php">Simply subscribe now</a></p>
             <div class="clear"><!-- ClearFix --></div>
         </div>
         <div class="columns four">
           <div class="recent">
             <h2>Recent listings</h2>
-            <img src="images/pictures/thailand-thumb.png" alt="Pattaya - Thailand" />
-            <h3>Pattaya &mdash; Thailand</h3>
-            <p>From <strong>$96,000</strong> with simple payment plans. Off-the-plan freehold apartments. July 2015</p>
-            <a href="properties.php#thailand" class="btn_readmore arrow_right">Read More<span class="ico_arrow">&rarr;</span></a>
+            <img src="images/pictures/thumb-labrador.jpg" alt="Street view of busy apartment complex in Labrador." />
+            <h3>Labrador – Terraces on Central</h3>
+            <p>Strategically situated between two neighbourhood shopping centres and less than 5 minutes from the Griffith university campus.</p>
+            <a href="properties.php#labrador" class="btn_readmore arrow_right">Read More<span class="ico_arrow">&rarr;</span></a>
             <div class="clear"></div>
           </div>
         </div>

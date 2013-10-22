@@ -48,7 +48,7 @@
     <script type="text/javascript" src="js/jquery.elastislide.js"></script>
     <script type='text/javascript' src='js/camera.min.js'></script>
 	<script type='text/javascript' src='js/jquery.prettyPhoto.js'></script>
-    <script type='text/javascript' src='js/kickstart.js'></script>
+    <!--<script type='text/javascript' src='js/kickstart.js'></script>-->
     <script type='text/javascript' src='js/prettify.js'></script>
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -103,7 +103,7 @@
         <div class="alerts-form">
             <h2>Free Property Investments Alerts</h2>
             <p>Never miss out the biggest investment opportunites.</p>
-            <a href="http://lightiseverything.com.au/cameronbird/contacts.php" class="btn_readmore arrow_right">Sign-up now!<span class="ico_arrow">&rarr;</span></a>
+            <a href="contacts.php" class="btn_readmore arrow_right">Sign-up now!<span class="ico_arrow">&rarr;</span></a>
         </div>
         <div class="login-form">
             <h2>Members only portal</h2>
@@ -139,10 +139,15 @@
                 <li>
                 	<a href="properties.php">Properties</a>
                     <ul class="sub_menu level1">
-                    	<li><a href="properties.php#gracemere">Gracemere (Mining)</a></li>
-                        <li><a href="properties.php#thailand">Thailand (Overseas Investment)</a></li>
-                        <li><a href="properties.php#cloncurry">Cloncurry (Remote Mining)</a></li>
-                        <li><a href="properties.php#kawana">Kawana Hospital Precinct (Health Sector)</a></li>
+                        <li><a href="properties.php#labrador">Labrador – Terraces on Central (TOC)</a></li>
+                        <li><a href="properties.php#chermside">Chermside – Arbour on Charlotte (AOC)</a></li>
+                        <li><a href="properties.php#maroochydore">Maroochydore – Emporio (ESC)</a></li>
+                        <li><a href="properties.php#gracemere">Gracemere - Lilly Pilly Gardens 2 (GLP)</a></li>
+                        <li><a href="properties.php#gracemere-city">Gracemere – City Views Estate (GCV)</a></li>
+                        <li><a href="properties.php#kawana">Lake Kawana – Residence on Regatta (ROR)</a></li>
+                        <li><a href="properties.php#fortitude">Fortitude Valley – The Dunmore (DPA)</a></li>
+                        <li><a href="properties.php#cloncurry">Cloncurry – RiverViews Estate (CHL)</a></li>
+                    	<li><a href="properties.php#yeppoon">Yeppoon – Oshen (YOA)</a></li>
                     </ul>
                 </li>
                 <li class="sep"></li>
@@ -150,7 +155,7 @@
                 	<a href="property-investments.php">Property Investment Alerts</a>
                 </li>
                 <li class="sep"></li>
-                <li><a href="http://lightiseverything.com.au/cameronbird/contacts.php">Contact Cameron Bird Group</a></li>
+                <li><a href="contacts.php">Contact Cameron Bird Group</a></li>
             </ul>
             <div class="menu_indicator"></div>
 		</nav>

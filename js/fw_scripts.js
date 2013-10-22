@@ -28,6 +28,21 @@ $(document).ready(function(){
 
 	$('#contact-us form').submit(function() {
 
+		// validation
+		var error = false;
+		$('.error').addClass('not-here');
+		$('#contact-us input[type=text]').each(function(index) {
+			// console.log(index+': '+$(this).val());
+			if($(this).val() === ""){
+				// console.log($(this).attr('id'));
+				var id = $(this).attr('id');
+				$('label[for='+id+'] .error').removeClass('not-here');
+				error = true;
+			}
+		});
+
+		if (error) {return false;}
+
 		// update user interface
 		$('#contact-us .response').html('Processing...');
 		$('#contact-us form input[type="submit"]').val('Sending...');
@@ -35,14 +50,10 @@ $(document).ready(function(){
 		// Prepare query string and send AJAX request
 		$.ajax({
 			url: 'site-handlers/contact-us.php',
-			data: 'ajax=true&name=' + escape($('#name').val()) +
-				  '&user-name=' + escape($('#user-name').val()) +
+			data: 'ajax=true&fname=' + escape($('#fname').val()) +
+				  '&lname=' + escape($('#lname').val()) +
 				  '&email=' + escape($('#email').val()) +
-				  '&phone=' + escape($('#phone').val()) +
-				  '&address=' + escape($('#address').val()) +
-				  '&suburb=' + escape($('#suburb').val()) +
-				  '&state=' + escape($('#state').val()) +
-				  '&postcode=' + escape($('#postcode').val())
+				  '&phone=' + escape($('#phone').val())
 				  ,
 			success: function(msg) {
 				$('#contact-us .response').html(msg);

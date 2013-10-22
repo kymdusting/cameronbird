@@ -10,63 +10,36 @@ $title = 'Contact';
 	    <div class="columns seven">
         	<h3>Property Investment Alerts Signup</h3>
             <p>We source the best possible investment properties we can find throughout Australia and overseas that fit <a href="our-property-criteria.php">our strict investment criteria</a>, which often have limited availability and strict timeframes - so don't miss out.</p>
+            <p class="mandatory"><span>*</span> Mandatory fields</span></p>
             <form action="<?=$_SERVER['PHP_SELF']; ?>" method="get">
-                <div class="columns two contact_label alpha">
-                    <label for="name">Your Name</label>
+                <div class="contact_label">
+                  <label for="fname">First Name <em>*</em> <span class="error not-here">Please enter your First Name</span></label>
                 </div>
-                <div class="columns five contact_input omega">
-                    <input type="text" name="name" id="name" />
+                <div class="contact_input">
+                  <input type="text" name="fname" id="fname" />
                 </div>
-                <div class="columns two contact_label alpha">
-                    <label for="user-name">User Name</label>
+                <div class="contact_label">
+                  <label for="lname">Last Name <em>*</em> <span class="error not-here">Please enter your Last Name</span></label>
                 </div>
-                <div class="columns five contact_input omega">
-                    <input type="text" name="user-name" id="user-name" />
-                </div>
-                <div class="clear"><!-- ClearFix --></div>
-                <div class="columns two contact_label alpha">
-                    <label for="email">E-mail</label>
-                </div>
-                <div class="columns five contact_input omega">
-                  	<input type="text" name="email" id="email" />
+                <div class="contact_input">
+                  <input type="text" name="lname" id="lname" />
                 </div>
                 <div class="clear"><!-- ClearFix --></div>
-                <div class="columns two contact_label alpha">
-                    <label for="phone">Phone</label>
+                <div class="contact_label">
+                  <label for="email">Email <em>*</em> <span class="error not-here">Please enter a valid Email</span></label>
                 </div>
-                <div class="columns five contact_input omega">
-                  	<input type="text" name="phone" id="phone" />
-                </div>
-                <div class="clear"><!-- ClearFix --></div>
-                <div class="columns two contact_label alpha">
-                    <label for="address">Address</label>
-                </div>
-                <div class="columns five contact_input omega">
-					<input type="text" name="address" id="address" />
+                <div class="contact_input">
+                  <input type="text" name="email" id="email" />
                 </div>
                 <div class="clear"><!-- ClearFix --></div>
-                <div class="columns two contact_label alpha">
-                    <label for="suburb">Suburb</label>
+                <div class="contact_label">
+                  <label for="phone">Phone <em>*</em> <span class="error not-here">Please enter your Phone number</span></label>
                 </div>
-                <div class="columns five contact_input omega">
-                    <input type="text" name="suburb" id="suburb" />
-                </div>
-                <div class="clear"><!-- ClearFix --></div>
-                <div class="columns two contact_label alpha">
-                    <label for="state">State</label>
-                </div>
-                <div class="columns five contact_input omega">
-                    <input type="text" name="state" id="state" />
+                <div class="contact_input">
+                  <input type="text" name="phone" id="phone" />
                 </div>
                 <div class="clear"><!-- ClearFix --></div>
-                <div class="columns two contact_label alpha">
-                    <label for="postcode">Postcode</label>
-                </div>
-                <div class="columns five contact_input omega">
-                    <input type="text" name="postcode" id="postcode" />
-                </div>
-                <div class="clear"><!-- ClearFix --></div>
-                <div class="columns five contact_button alpha omega offset-by-two">
+                <div class="contact_button">
 					<input type="submit" name="button" id="button" value="Send Email" />
                     <span class="response" aria-live="polite">
                       <? require_once('site-handlers/contact-us.php');
