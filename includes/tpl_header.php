@@ -56,9 +56,6 @@
         <script type="text/javascript" src="js/ie_fix.js"></script>
 	<![endif]-->
 
-    <?php if ($title == 'Home') {
-    echo"<link rel='stylesheet' href='css/plugins/simpleOverlay.css'>";
-    echo"<script type='text/javascript' src='js/jquery.tools.min.js'></script>";} ?>
 	<script type='text/javascript' src='js/fw_ui.js'></script>
     <script type='text/javascript' src='js/fw_scripts.js'></script>
 
@@ -67,33 +64,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 </head>
 <body>
-
-<?php if ($title == 'Home') { ?>
-    <div class="simple_overlay" id="mies1">
-        <h1><img alt="The Cameron Bird Group" src="images/cbird-text.png" /></h1>
-        <!-- <h2>Join Australia's most advanced property investment portal now for free.</h2> -->
-        <p>Over 10,000 members and 35 years of helping investors.</p>
-        <p class="mandatory"><span>*</span> Mandatory fields</span></p>
-        <form action="<?=$_SERVER['PHP_SELF']; ?>" method="get">
-                <label for="fname">First Name <em>*</em> <span class="error not-here">Please enter your First Name</span></label>
-                <input type="text" name="fname" id="fname" />
-                <label for="lname">Last Name <em>*</em> <span class="error not-here">Please enter your Last Name</span></label>
-                <input type="text" name="lname" id="lname" />
-                <label for="email">Email <em>*</em> <span class="error not-here">Please enter a valid Email</span></label>
-                <input type="text" name="email" id="email" />
-                <label for="phone">Phone <em>*</em> <span class="error not-here">Please enter your Phone number</span></label>
-                <input type="text" name="phone" id="phone" />
-                <input class="submit" type="submit" name="button" id="button" value="Register Now" />
-                <span class="response" aria-live="polite">
-                  <? require_once('site-handlers/sign-up.php');
-                    if (isset($_GET['submit'])) {
-                      if($_GET['submit']){ echo signup(); }
-                    } ?>
-                </span>
-                <a href="#" class="cancel">No thanks</a>
-        </form>
-    </div>
-<?php } ?>
 <div class="main_wrapper">
 	<!-- Header Begin
     ================================================== -->
