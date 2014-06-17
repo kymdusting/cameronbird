@@ -14,25 +14,45 @@ $title = 'Properties';
             <h2>Properties</h2>
     <hr class="alt1" />
             <div class="property columns twelve">
-                <h3 id="labrador">Labrador – Terraces on Central (TOC)</h3>
-                <img src="images/pictures/labrador.jpg" alt="Street view of busy apartment complex in Labrador." width="393" height="250" />
+                <h3 id="goldcoast">Gold Coast - Broadwater Beachfront Properties</h3>
+                <h4>Cash Flow Positive</h4>
+                <img src="images/pictures/goldcoast.jpg" alt="Gold Coast Jupiters Casino facade." width="393" height="250" />
                 <dl>
-                    <dt>Townhouses:</dt><dd>3 bed, 2 bath. 2 car spaces</dd>
-                    <dt>Priced from:</dt><dd>$399,000</dd>
-                    <dt>Rental Return:</dt><dd>$460 per week (market rent)</dd>
+                    <dt>Apartments:</dt><dd>1 and 2 bedroom apartments</dd>
+                    <dt>Priced from:</dt><dd>$329,900</dd>
+                    <dt>Rental Return:</dt><dd>1 bedroom: $330 - $380 per week (market rent)</dd><dd>2 bedroom: $420 - $470 per week (market rent)</dd>
                 </dl>
                 <ul>
-                    <li>Cash Flow Positive</li>
-                    <li>NRAS allocations available</li>
                     <li>SMSF approved</li>
+                    <li>Cash Flow Positive</li>
                 </uL>
-                <p>Strategically situated between two neighbourhood shopping centres and less than 5 minutes from the Griffith university campus and the new 1.76bn dollar Gold Coast Hospital.</p>
+                <p>When was the last you could purchase beachfront property around the low $300,000 mark? Affordability packed with a beachfront location. Price + Perfect Market Timing + Rental demanded for a beachfront location.</p>
                 <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
                 <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
                 <div class="clear"><!-- ClearFix --></div>
             </div>
-    <hr class="alt1" /><div class="property columns twelve">
-                <h3 id="chermside">Chermside – Arbour on Charlotte (AOC)</h3>
+            <hr class="alt1" />
+            <div class="property columns twelve">
+                <h3 id="broadbeach">Gold Coast - Broadbeach Apartments Near Jupiters Casino</h3>
+                <h4>Cash Flow Positive</h4>
+                <img src="images/pictures/broadbeach.jpg" alt="Beach front apartments in Broadbeach." width="393" height="250" />
+                <dl>
+                    <dt>Apartments:</dt><dd>1 and 2 bedroom apartments</dd>
+                    <dt>Priced from:</dt><dd>$329,900</dd>
+                    <dt>Rental Return:</dt><dd>1 bedroom: $330 - $380 per week (market rent)</dd><dd>2 bedroom: $420 - $470 per week (market rent)</dd>
+                </dl>
+                <ul>
+                    <li>SMSF approved</li>
+                    <li>Cash Flow Positive</li>
+                </uL>
+                <p>When was the last you could purchase beachfront property around the low $300,000 mark? Affordability packed with a beachfront location. Price + Perfect Market Timing + Rental demanded for a beachfront location.</p>
+                <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
+                <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
+                <div class="clear"><!-- ClearFix --></div>
+            </div>
+            <hr class="alt1" />
+            <div class="property columns twelve">
+                <h3 id="chermside">Brisbane - Chermside Apartments</h3>
                 <img src="images/pictures/chermside.jpg" alt="Apartment complex in Chermside." width="393" height="250" />
                 <dl>
                     <dt>Apartments:</dt><dd>1, 2 bedroom apartments.</dd>
@@ -49,8 +69,28 @@ $title = 'Properties';
                 <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
                 <div class="clear"><!-- ClearFix --></div>
             </div>
-    <hr class="alt1" /><div class="property columns twelve">
-                <h3 id="maroochydore">Maroochydore – Emporio (ESC)</h3>
+            <hr class="alt1" />
+            <div class="property columns twelve">
+                <h3 id="labrador">Gold Coast - Labrador - (Sold Out)</h3>
+                <img src="images/pictures/labrador.jpg" alt="Street view of busy apartment complex in Labrador." width="393" height="250" />
+                <dl>
+                    <dt>Townhouses:</dt><dd>3 bed, 2 bath. 2 car spaces</dd>
+                    <dt>Priced from:</dt><dd>$399,000</dd>
+                    <dt>Rental Return:</dt><dd>$460 per week (market rent)</dd>
+                </dl>
+                <ul>
+                    <li>Cash Flow Positive</li>
+                    <li>NRAS allocations available</li>
+                    <li>SMSF approved</li>
+                </uL>
+                <p>Strategically situated between two neighbourhood shopping centres and less than 5 minutes from the Griffith university campus and the new 1.76bn dollar Gold Coast Hospital.</p>
+                <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
+                <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
+                <div class="clear"></div>
+            </div>
+            <hr class="alt1" />
+            <div class="property columns twelve">
+                <h3 id="maroochydore">Sunshine Coast - Apartments</h3>
                 <img src="images/pictures/maroochydore.jpg" alt="Apartment complex overlooking a river." width="393" height="250" />
                 <dl>
                     <dt>Apartments:</dt><dd>1, 2 &amp; 3 bedroom apartments.</dd>
@@ -67,92 +107,9 @@ $title = 'Properties';
                 <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
                 <div class="clear"><!-- ClearFix --></div>
             </div>
-    <hr class="alt1" /><div class="property columns twelve">
-                <h3 id="gracemere">Gracemere - Lilly Pilly Gardens 2 (GLP)</h3>
-                <img src="images/pictures/gracemere.jpg" alt="Gracemere townhouses facade." width="393" height="250" />
-                <dl>
-                    <dt>Townhouses:</dt><dd>3 bed, 2.5 bath. 1 garage w/ backyard Priced</dd>
-                    <dt>Priced from:</dt><dd>$353,500 plus $20,000 Furniture Package</dd>
-                    <dt>Rental Return:</dt><dd>$600 per week (market rent)</dd>
-                </dl>
-                <ul>
-                    <li>Cash Flow Positive</li>
-                    <li>High Capital Gain Potential</li>
-                </uL>
-                <h4>Incentives:</h4>
-                <ul>
-                    <li>Lease back agreement (contact for details)</li>
-                </uL>
-                <p>Unique fully gated estate in the heart of Central Qld's mining sector - boasting major infrastructure and significant investment from both private and government sectors in the immediate area.</p>
-                <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
-                <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
-                <div class="clear"><!-- ClearFix --></div>
-            </div>
-    <hr class="alt1" /><div class="property columns twelve">
-                <h3 id="gracemere-city">Gracemere – City Views Estate (GCV)</h3>
-                <img src="images/pictures/gracemere-city.jpg" alt="Large modern home in Gracemere." width="393" height="250" />
-                <dl>
-                    <dt>House and Land Package:</dt><dd>4 bed, 2 bath, 2 garage</dd>
-                    <dt>Priced from:</dt><dd>T.B.A plus $20,000 Furniture Package</dd>
-                    <dt>Rental Return:</dt><dd>T.B.A (market rent)</dd>
-                </dl>
-                <ul>
-                    <li>Cash Flow Positive</li>
-                    <li>High Capital Gain Potential</li>
-                </uL>
-                <h4>Incentives:</h4>
-                <ul>
-                    <li>Lease back agreement (contact for details)</li>
-                </uL>
-                <p>House and land packages in the heart of Central Qld's mining sector - boasting major infrastructure and significant investment from both private and government sectors in the immediate area.</p>
-                <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
-                <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
-                <div class="clear"><!-- ClearFix --></div>
-            </div>
-    <hr class="alt1" /><div class="property columns twelve">
-                <h3 id="kawana">Lake Kawana – Residence on Regatta (ROR)</h3>
-                <img src="images/pictures/kawana.jpg" alt="Looking out from a balcony overlooking Lake Kawana." width="393" height="250" />
-                <dl>
-                    <dt>Waterfront Estate:</dt><dd>w/ Apartments, Villas and Townhouses</dd>
-                    <dt>Priced from:</dt><dd>$310,000 - $700,000</dd>
-                    <dt>Rental Return:</dt><dd>$350 - $570 per week</dd>
-                </dl>
-                <ul>
-                    <li>Cash Flow Positive</li>
-                    <li>High Capital Gain Potential</li>
-                </uL>
-                <h4>Incentives:</h4>
-                <ul>
-                    <li>T.B.A.</li>
-                </uL>
-                <p>The largest health infrastructure project in the southern hemisphere has landed on our doorstep. Two major hospitals are being built and the Cameron Bird group has been able to obtain waterfront property just 700 metres from the site at discounted prices to our client.</p>
-                <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
-                <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
-                <div class="clear"><!-- ClearFix --></div>
-            </div>
-    <hr class="alt1" /><div class="property columns twelve">
-                <h3 id="fortitude">Fortitude Valley – The Dunmore (DPA)</h3>
-                <img src="images/pictures/fortitude.jpg" alt="Modern apartment complex in Fortitude valley." width="393" height="250" />
-                <dl>
-                    <dt>Apartments:</dt><dd>1 &amp; 2 bedroom</dd>
-                    <dt>Priced from:</dt><dd>$385,000</dd>
-                    <dt>Rental Return:</dt><dd>7% (2 years developers lease back)<br>6% (2+3 years developers lease back)</dd>
-                </dl>
-                <ul>
-                    <li>Cash Flow Positive</li>
-                    <li>High Capital Gain Potential</li>
-                </uL>
-                <h4>Incentives:</h4>
-                <ul>
-                    <li>See above developer lease back options, contact Cameron Bird for more information.</li>
-                </uL>
-                <p>Urban elegance and stately modern architecture is the perfect host for the 78 stylish apartments, roof top bar, conference faciltiies, pool and gymnasium, all set above signature restaurants, atrium foyer and discrerte commercial offices. Boasting an iedeal near-city address, these apartments offers you one of the most attractive investment options available in Brisbane.</p>
-                <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
-                <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
-                <div class="clear"><!-- ClearFix --></div>
-            </div>
-    <hr class="alt1" /><div class="property columns twelve">
-                <h3 id="cloncurry">Cloncurry – RiverViews Estate (CHL)</h3>
+            <hr class="alt1" />
+            <div class="property columns twelve">
+                <h3 id="cloncurry">Regional Mining - Cloncurry</h3>
                 <img src="images/pictures/cloncurry.jpg" alt="Family home in Cloncurry." width="393" height="250" />
                 <dl>
                     <dt>House and Land:</dt><dd>4 bed, 2 bath, DLUG, AC, Turnkey packages</dd>
@@ -172,24 +129,20 @@ $title = 'Properties';
                 <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
                 <div class="clear"><!-- ClearFix --></div>
             </div>
-    <hr class="alt1" />
+            <hr class="alt1" />
             <div class="property columns twelve">
-                <h3 id="yeppoon">Yeppoon – Oshen (YOA)</h3>
-                <img src="images/pictures/yeppoon.jpg" alt="Apartments set into the side of a hill in busy Yeppoon." width="393" height="250" />
+                <h3 id="thailand">Thailand - Luxury Condominiums</h3>
+                <h4>Cash Flow Positive</h4>
+                <img src="images/pictures/thailand.jpg" alt="Sparkling Thailand apartments facade with swimming pool." width="393" height="250" />
                 <dl>
-                    <dt>Apartments:</dt><dd>1 and 2 bedroom</dd>
-                    <dt>Priced from:</dt><dd>$329,000</dd>
-                    <dt>Rental Return:</dt><dd>$475 per week (market rent)</dd>
+                    <dt>Apartments:</dt><dd>Studio and 1 Bedroom Apartments</dd>
+                    <dt>Priced from:</dt><dd>AUD $49,900</dd>
+                    <dt>Rental Return:</dt><dd>Studio: 7.51% net return based on a 90% occupancy*</dd><dd>1 bedroom: 8.50% net return based on a 90% occupancy*</dd>
                 </dl>
                 <ul>
-                    <li>Cash Flow Positive</li>
-                    <li>Good Capital Gain Potential</li>
+                    <li>Flexible payment options</li>
                 </uL>
-                <h4>Incentives:</h4>
-                <ul>
-                    <li>T.B.A.</li>
-                </uL>
-                <p>Setting a new benchmark for luxury living on the Capricorn Coast, these apartments on their hilltop site are in the heart of Yeppoon. 61 apartments set over five-levels on Yeppoon's finest development site. Boasting 270 degree views to  the Southern Great Barrier Reef, Keppel Island and across Yeppoons CBD.</p>
+                <p>With our 2013 Thailand release winning "The best condominium development" in Thailand, our research team knows what to look for in a secure and profitable international investment. Low entry price with great returns coupled with amazing location!</p>
                 <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
                 <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
                 <div class="clear"><!-- ClearFix --></div>

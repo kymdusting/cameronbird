@@ -109,15 +109,13 @@
                 <li>
                 	<a href="properties.php">Properties</a>
                     <ul class="sub_menu level1">
-                        <li><a href="properties.php#labrador">Labrador – Terraces on Central (TOC)</a></li>
-                        <li><a href="properties.php#chermside">Chermside – Arbour on Charlotte (AOC)</a></li>
-                        <li><a href="properties.php#maroochydore">Maroochydore – Emporio (ESC)</a></li>
-                        <li><a href="properties.php#gracemere">Gracemere - Lilly Pilly Gardens 2 (GLP)</a></li>
-                        <li><a href="properties.php#gracemere-city">Gracemere – City Views Estate (GCV)</a></li>
-                        <li><a href="properties.php#kawana">Lake Kawana – Residence on Regatta (ROR)</a></li>
-                        <li><a href="properties.php#fortitude">Fortitude Valley – The Dunmore (DPA)</a></li>
-                        <li><a href="properties.php#cloncurry">Cloncurry – RiverViews Estate (CHL)</a></li>
-                    	<li><a href="properties.php#yeppoon">Yeppoon – Oshen (YOA)</a></li>
+                        <li><a href="properties.php#goldcoast">Gold Coast - Broadwater Beachfront Properties</a></li>
+                        <li><a href="properties.php#broadbeach">Gold Coast - Broadbeach Apartments Near Jupiters Casino</a></li>
+                        <li><a href="properties.php#chermside">Brisbane - Chermside Apartments</a></li>
+                        <li><a href="properties.php#labrador">Gold Coast - Labrador</a></li>
+                        <li><a href="properties.php#maroochydore">Sunshine Coast - Apartments</a></li>
+                        <li><a href="properties.php#cloncurry">Regional Mining - Cloncurry</a></li>
+                        <li><a href="properties.php#thailand">Thailand - Luxury Condominiums</a></li>
                     </ul>
                 </li>
                 <li class="sep"></li>
