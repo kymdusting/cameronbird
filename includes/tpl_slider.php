@@ -5,6 +5,11 @@
 	            The Cameron Bird Group - Your Property Partners
 			</div>
 		</div>
+		<div  data-thumb="images/top_slider/slide6.jpg" data-src="images/top_slider/slide6.jpg">
+			<div class="camera_caption fadeFromBottom">
+            	As seen on the back of Australia's number 1 real estate magazine for over 20 years
+			</div>
+		</div>
 		<div  data-thumb="images/top_slider/slide2.jpg" data-src="images/top_slider/slide2.jpg">
 			<div class="camera_caption fadeFromBottom">
             	The largest health infrastructure project in the southern hemisphere
@@ -24,8 +29,6 @@
 			<div class="camera_caption fadeFromBottom">
 	            The Cameron Bird Group - Your Property Partners
 			</div>
-		</div>
-		<div  data-thumb="images/top_slider/slide6.jpg" data-src="images/top_slider/slide6.jpg">
 		</div>
 	</div><!-- /sider -->
 	<div class="clear"><!-- ClearFix --></div>
