@@ -23,10 +23,10 @@
         	<div class="columns four">
             	<h5>Latest Properties</h5>
                 <ul class="aside_list">
-                    <li><a href="properties.php#labrador">Labrador</a></li>
+                    <li><a href="properties.php#goldcoast">Broadwater</a></li>
+                    <li><a href="properties.php#broadbeach">Broadbeach</a></li>
+                    <li><a href="properties.php#thailand">Thailand</a></li>
                     <li><a href="properties.php#chermside">Chermside</a></li>
-                    <li><a href="properties.php#maroochydoor">Maroochydoor</a></li>
-                    <li><a href="properties.php#gracemere">Gracemere</a></li>
                 </ul>
             </div>
        	  <div class="columns four">
