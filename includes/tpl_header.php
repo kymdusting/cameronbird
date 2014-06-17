@@ -127,6 +127,7 @@
                 <li class="sep"></li>
                 <li><a href="contacts.php">Contact Cameron Bird Group</a></li>
             </ul>
+            <img src="images/property-investor.gif" alt="Australian Property Investment">
             <div class="menu_indicator"></div>
 		</nav>
         <nav class="mobile_nav">
