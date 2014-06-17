@@ -3,6 +3,7 @@
 function contactUs(){
 
     $to      = 'admin@cameronbird.com.au';
+
     $subject = 'Urgent : From lightiseverything.com.au';
     $stringData = "First Name: " . $_GET['fname'] . "\r\n";
     $stringData = $stringData . "Last Name: " . $_GET['lname'] . "\r\n";

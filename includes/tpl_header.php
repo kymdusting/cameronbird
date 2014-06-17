@@ -76,7 +76,7 @@
             <a href="contacts.php" class="btn_readmore arrow_right">Sign-up now!<span class="ico_arrow">&rarr;</span></a>
         </div>
         <div class="login-form">
-            <h2>Members only portal</h2>
+            <h2>Members only Cash Flow Calculator</h2>
             <p style="margin:0; padding:0">Coming soon, when you sign up for free property investment alerts you'll gain access to our exclusive member's only portal.</p>
 			<p style="text-align:right; margin:0; padding:0"
 >English&nbsp;&nbsp;&nbsp;<a href="cn/index.php">中文</a></p>

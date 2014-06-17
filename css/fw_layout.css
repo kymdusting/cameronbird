@@ -25,7 +25,7 @@ body { overflow-x:hidden}
 	}
 	/*MainMenu*/
 	nav.head_nav { margin:128px 0 0 0; background:url(../images/bg_menu1-x.png) repeat-x; position:relative; height:54px}
-	nav.head_nav img { float: right; margin: 6px 74px 0 0;}
+	nav.head_nav img { float: right; margin: 6px 104px 0 0;}
 	.mainmenu { margin:0; padding:0; position:relative; z-index:10;}
 	.mainmenu li { float:left; padding:0; margin:0; position:relative;}
 	.mainmenu li.sep { width:1px!important; background:url(../images/sep_menu.gif) no-repeat center!important; display:block; height:52px}

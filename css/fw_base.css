@@ -362,9 +362,9 @@ nav.head_nav {
 .login-form {
 	position: absolute;
 	top: 15px;
-	left: 770px;
+	left: 738px;
 	height: 140px;
-	width: 200px;
+	width: 246px;
 }
 .alerts-form h2, .login-form h2 {
 	margin-bottom: 4px;
@@ -390,6 +390,9 @@ nav.head_nav {
 .recent .btn_readmore:hover, .recent .btn_readmore:focus {
 	background-color: #fff !important;
 	color: #5599CE !important;
+}
+header .btn_readmore {
+	background-color: #f80012;
 }
 strong {
 	font-weight: bold !important;

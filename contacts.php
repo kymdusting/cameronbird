@@ -54,13 +54,13 @@ $title = 'Contact';
         <div class="columns six offset-by-two">
         	<div class="add-bottom">
                 <h3>General Inquiries</h3>
-                <p>180 Moggill Road<br />Taringa<br /> Queensland 4068<br />Australia</p>
+                <p>PO Box 1566<br>Toowong<br>Queensland 4066<br>Australia</p>
                 <p>Ph: (07) 38712500 <br />
                 Fax: (07) 38711200<br />
                 E-mail: <a href="mailto:admin@cameronbird.com.au">admin@cameronbird.com.au</a></p>
             </div>
 			<h3>Directions</h3>
-            <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=180+Moggill+Road,+Taringa&amp;aq=&amp;sll=-35.358635,149.10482&amp;sspn=0.599192,1.143951&amp;ie=UTF8&amp;hq=&amp;hnear=180+Moggill+Rd,+Taringa+Queensland+4068&amp;t=m&amp;z=14&amp;ll=-27.492868,152.980095&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com.au/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=180+Moggill+Road,+Taringa&amp;aq=&amp;sll=-35.358635,149.10482&amp;sspn=0.599192,1.143951&amp;ie=UTF8&amp;hq=&amp;hnear=180+Moggill+Rd,+Taringa+Queensland+4068&amp;t=m&amp;z=14&amp;ll=-27.492868,152.980095" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14158.80437670608!2d152.9831172!3d-27.47856355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9150c0e176822d%3A0x502a35af3de9b80!2sToowong+QLD!5e0!3m2!1sen!2sau!4v1402966417769" width="400" height="300" frameborder="0" style="border:0"></iframe>
         </div>
 	</div>
 </div>

@@ -6,7 +6,7 @@
                 	The Cameron Bird group has been on the forefront of property investment for over 30 years. The team has dedicated themselves to helping others achieve wealth creation and early retirement through smart property investment.
                 </div>
                 <div class="copyright">
-                	&copy; Copyright 2012
+                	&copy; Copyright <?php echo date("Y") ?>
                 </div>
             </div>
         	<div class="columns four">
@@ -32,7 +32,7 @@
        	  <div class="columns four">
             	<h5>Contact us</h5>
                 <address>
-                    180 Moggill Road<br />Taringa<br /> Queensland 4068<br />Australia
+                    PO Box 1566<br>Toowong<br>Queensland 4066<br>Australia
                 </address>
                 <ul class="aside_list">
                     <li>Ph: (07) 38712500</li>
