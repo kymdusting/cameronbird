@@ -12,7 +12,43 @@ $title = 'Properties';
     <div class="top28">
         <div class="columns sixteen">
             <h2>Properties</h2>
-    <hr class="alt1" />
+            <hr class="alt1" />
+            <div class="property columns twelve">
+                <h3 id="toowoomba">Toowoomba - House and Land / Dual Occupancy / Duplex</h3>
+                <p>Massively cash flow positive property in the strongest market in Australia.</p>
+                <img src="images/pictures/toowoomba.jpg" alt="Toowoomba home." width="393" height="250" />
+                <dl>
+                    <dt>4 Bedroom / 2 Bathroom / DLUG:</dt><dd>From $403,000 returning $470 per week</dd>
+                    <dt>Dual Occupancy:</dt><dd>Under $500,000 returning $660 per week</dd>
+                    <dt>Duplex:</dt><dd>From $620,000 returning $710 per week</dd>
+                    <dt>3 Bedroom:</dt><dd>From $308,000 returning $350 per week</dd>
+                </dl>
+                <h4>Incentives:</h4>
+                <ul>
+                    <li>No Stamp Duty!</li>
+                </uL>
+                <p>The Cameron Bird Group has researched Toowoomba and found the best valued packages in the most prime estates in Toowoomba (Australia's largest inland city) Locations with double digit capital gains and very strong cash flow positive returns. On top of this, The Cameron Bird Group has organised a NO stamp duty exclusive incentive... this equates to real dollar savings that keeps the money in your pocket.</p>
+                <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
+                <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
+                <div class="clear"><!-- ClearFix --></div>
+            </div>
+            <hr class="alt1" />
+            <div class="property columns twelve">
+                <h3 id="thailand2014">Thailand - Luxury Condominiums 2014</h3>
+                <h4>Cash Flow Positive</h4>
+                <img src="images/pictures/thailand-2014.jpg" alt="Pool-side lounge of apartment complex" width="393" height="250" />
+                <dl>
+                    <dt>Apartments:</dt><dd>Studio, 1 and 2 bedroom apartments</dd>
+                    <dt>Priced from:</dt><dd>AUD $58,275</dd>
+                    <dt>Rental Return:</dt><dd>Studio: 6.26% net return based on a 90% occupancy*</dd><dd>1 bedroom: 9.00% net return based on a 90% occupancy*</dd>
+                </dl>
+                <p>Flexible payment options.</p>
+                <p>With both our 2012 and 2013 Thailand releases powering ahead in capital gains, 2014 enabled us to delve deeper into the City Centre and has provided us with an exquisite location. A 29 storey mixed use high rise development with breath taking sea views and a short stroll to the beach and city amenities.</p>
+                <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
+                <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
+                <div class="clear"><!-- ClearFix --></div>
+            </div>
+            <hr class="alt1" />
             <div class="property columns twelve">
                 <h3 id="goldcoast">Gold Coast - Broadwater Beachfront Properties</h3>
                 <h4>Cash Flow Positive</h4>
@@ -35,17 +71,37 @@ $title = 'Properties';
             <div class="property columns twelve">
                 <h3 id="broadbeach">Gold Coast - Broadbeach Apartments Near Jupiters Casino</h3>
                 <h4>Cash Flow Positive</h4>
+                <p>Incomparable central Broadbeach location!</p>
                 <img src="images/pictures/broadbeach.jpg" alt="Beach front apartments in Broadbeach." width="393" height="250" />
                 <dl>
-                    <dt>Apartments:</dt><dd>1 and 2 bedroom apartments</dd>
-                    <dt>Priced from:</dt><dd>$329,900</dd>
-                    <dt>Rental Return:</dt><dd>1 bedroom: $330 - $380 per week (market rent)</dd><dd>2 bedroom: $420 - $470 per week (market rent)</dd>
+                    <dt>Apartments:</dt><dd>Only 2 bedroom configurations remain!</dd>
+                    <dt>Priced from:</dt><dd>$476,900</dd>
+                    <dt>Rental Return:</dt><dd>2 bedroom: $550 - $575 per week (market rent)</dd>
                 </dl>
                 <ul>
                     <li>SMSF approved</li>
-                    <li>Cash Flow Positive</li>
                 </uL>
-                <p>When was the last you could purchase beachfront property around the low $300,000 mark? Affordability packed with a beachfront location. Price + Perfect Market Timing + Rental demanded for a beachfront location.</p>
+                <p>Adjacent to Jupiters casino, a few minutes' walk to the pristine Gold Coast beaches and a Gold Linq Queensland Light Rail station at your doorstep!</p>
+                <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
+                <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
+                <div class="clear"><!-- ClearFix --></div>
+            </div>
+            <hr class="alt1" />
+            <div class="property columns twelve">
+                <h3 id="brisbane">Brisbane - Deception Bay</h3>
+                <p>Strategically planned by financial planners.</p>
+                <img src="images/pictures/deception-bay.jpg" alt="Brisbane - Deception Bay" width="397" height="170" />
+                <dl>
+                    <dt>Apartments:</dt><dd>1 plus Study &amp; 2 bedroom configurations</dd>
+                    <dt>Priced from:</dt><dd>$279,900</dd>
+                    <dt>Rental Return:</dt><dd>1 bedroom plus Study: $305 - $315 per week</dd><dd>2 bedroom: $330 - $360 per week</dd>
+                </dl>
+                <ul>
+                    <li>Optional 5% CAPITAL GAINS guarantee (Investors special)</li>
+                    <li>Optional 5.1% RENTAL RETURN guarantee</li>
+                    <li>Valuations coming in at $16,000 above market price</li>
+                    <li>SMSF approved</li>
+                </uL>
                 <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
                 <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
                 <div class="clear"><!-- ClearFix --></div>
@@ -131,7 +187,7 @@ $title = 'Properties';
             </div>
             <hr class="alt1" />
             <div class="property columns twelve">
-                <h3 id="thailand">Thailand - Luxury Condominiums</h3>
+                <h3 id="thailand">Thailand - Luxury Condominiums 2013</h3>
                 <h4>Cash Flow Positive</h4>
                 <img src="images/pictures/thailand.jpg" alt="Sparkling Thailand apartments facade with swimming pool." width="393" height="250" />
                 <dl>

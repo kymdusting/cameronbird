@@ -440,3 +440,9 @@ address {
 label em { color: #f00; font-style: normal; font-size: 85%; font-weight: bold; }
 #contact-us .error {margin-right: 0;}
 #contact-us #button {width: auto; }
+
+/* Calculator styles override */
+#calculator {
+	background: white;
+	padding: 10px 0;
+}

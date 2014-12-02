@@ -51,10 +51,10 @@ $title = 'Home';
         <div class="columns four">
           <div class="recent">
             <h2>Recent listings</h2>
-            <img src="images/pictures/thumb-goldcoast.jpg" alt="Gold Coast Jupiters Casino facade." />
-            <h3>Gold Coast - Broadwater Beachfront Properties</h3>
-            <p>When was the last you could purchase beachfront property around the low $300,000 mark? Affordability packed with a beachfront location. Price + Perfect Market Timing + Rental demanded for a beachfront location.</p>
-            <a href="properties.php#goldcoast" class="btn_readmore arrow_right">Read More<span class="ico_arrow">&rarr;</span></a>
+            <img src="images/pictures/thumb-toowoomba.jpg" alt="Toowoomba home" />
+            <h3>Toowoomba - House and Land / Dual Occupancy / Duplex</h3>
+            <p>The Cameron Bird Group has researched Toowoomba and found the best valued packages in the most prime estates in Toowoomba (Australia's largest inland city) Locations with double digit capital gains and very strong cash flow positive returns.</p>
+            <a href="properties.php#toowoomba" class="btn_readmore arrow_right">Read More<span class="ico_arrow">&rarr;</span></a>
             <div class="clear"></div>
           </div>
         </div>

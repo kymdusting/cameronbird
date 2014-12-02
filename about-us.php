@@ -23,10 +23,10 @@ $title = 'About Us';
         <div class="columns four">
           <div class="recent">
             <h2>Recent listings</h2>
-            <img src="images/pictures/thumb-labrador.jpg" alt="Street view of busy apartment complex in Labrador." />
-            <h3>Labrador – Terraces on Central</h3>
-            <p>Strategically situated between two neighbourhood shopping centres and less than 5 minutes from the Griffith university campus.</p>
-            <a href="properties.php#labrador" class="btn_readmore arrow_right">Read More<span class="ico_arrow">&rarr;</span></a>
+            <img src="images/pictures/thumb-toowoomba.jpg" alt="Toowoomba home" />
+            <h3>Toowoomba - House and Land / Dual Occupancy / Duplex</h3>
+            <p>The Cameron Bird Group has researched Toowoomba and found the best valued packages in the most prime estates in Toowoomba (Australia's largest inland city) Locations with double digit capital gains and very strong cash flow positive returns.</p>
+            <a href="properties.php#toowoomba" class="btn_readmore arrow_right">Read More<span class="ico_arrow">&rarr;</span></a>
             <div class="clear"></div>
           </div>
         </div>
