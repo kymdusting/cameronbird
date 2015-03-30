@@ -27,7 +27,25 @@ $title = 'Properties';
                 <ul>
                     <li>No Stamp Duty!</li>
                 </uL>
-                <p>The Cameron Bird Group has researched Toowoomba and found the best valued packages in the most prime estates in Toowoomba (Australia's largest inland city) Locations with double digit capital gains and very strong cash flow positive returns. On top of this, The Cameron Bird Group has organised a NO stamp duty exclusive incentive... this equates to real dollar savings that keeps the money in your pocket.</p>
+                <p>The Cameron Bird Group has researched Toowoomba and found the best valued Packages in the most prime estates in Toowoomba (Australia's largest inland city) Locations with double digit capital gains and very strong cash flow positive returns. On top of this, The Cameron Bird Group has organised a NO stamp duty exclusive incentive... this equates to real dollar savings that keeps the money in your pocket.</p>
+                <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
+                <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
+                <div class="clear"><!-- ClearFix --></div>
+            </div>
+            <hr class="alt1" />
+            <div class="property columns twelve">
+                <h3 id="pimpama">Pimpama - House and Land Packages</h3>
+                <img src="images/pictures/pimpama.jpg" alt="Pimpama modern kitchen." width="393" height="250" />
+                <dl>
+                    <dt>4 Bedroom / 2 Bathroom / DLUG:</dt><dd>From $421,000</dd>
+                    <dt>3 Bedroom / 2 Bathroom / SLUG:</dt><dd>From $380,000</dd>
+                </dl>
+                <h4>Incentives:</h4>
+                <ul>
+                    <li>Free conveyancing</li>
+                </uL>
+                <p>2015 brings out our strongest release in 3 years.</p>
+                <p>9.7% projected population growth each year, every year, until the year 2036! To have an almost double digit projection for the next 21 years is quite remarkable. Population on this scale, with its phenomenally low age demographic really does point to sustainable growth for this rea. With the Coomera Town Centre approvals in place, we are eagerly awaiting the announcement of the catalyst upgrade of EXIT 54 for the domino effect to take place. To have 34 hectares of land surrounded by 3 rapidly growing suburbs... it's only a matter of time.</p>
                 <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
                 <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
                 <div class="clear"><!-- ClearFix --></div>
@@ -82,26 +100,6 @@ $title = 'Properties';
                     <li>SMSF approved</li>
                 </uL>
                 <p>Adjacent to Jupiters casino, a few minutes' walk to the pristine Gold Coast beaches and a Gold Linq Queensland Light Rail station at your doorstep!</p>
-                <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
-                <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
-                <div class="clear"><!-- ClearFix --></div>
-            </div>
-            <hr class="alt1" />
-            <div class="property columns twelve">
-                <h3 id="brisbane">Brisbane - Deception Bay</h3>
-                <p>Strategically planned by financial planners.</p>
-                <img src="images/pictures/deception-bay.jpg" alt="Brisbane - Deception Bay" width="397" height="170" />
-                <dl>
-                    <dt>Apartments:</dt><dd>1 plus Study &amp; 2 bedroom configurations</dd>
-                    <dt>Priced from:</dt><dd>$279,900</dd>
-                    <dt>Rental Return:</dt><dd>1 bedroom plus Study: $305 - $315 per week</dd><dd>2 bedroom: $330 - $360 per week</dd>
-                </dl>
-                <ul>
-                    <li>Optional 5% CAPITAL GAINS guarantee (Investors special)</li>
-                    <li>Optional 5.1% RENTAL RETURN guarantee</li>
-                    <li>Valuations coming in at $16,000 above market price</li>
-                    <li>SMSF approved</li>
-                </uL>
                 <p>*Forecasts and estimations based on research conducted by the Cameron Bird Group.</p>
                 <a href="mailto:admin@cameronbird.com.au" class="btn_readmore">Contact Cameron Bird</a>
                 <div class="clear"><!-- ClearFix --></div>

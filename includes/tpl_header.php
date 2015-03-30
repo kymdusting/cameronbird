@@ -111,10 +111,10 @@
                     <a href="properties.php">Properties</a>
                     <ul class="sub_menu level1">
                         <li><a href="properties.php#toowoomba">Toowoomba - House and Land / Dual Occupancy / Duplex</a></li>
+                        <li><a href="properties.php#pimpama">Pimpama - House and Land Packages</a></li>
                         <li><a href="properties.php#thailand2014">Thailand - Luxury Condominiums 2014</a></li>
                         <li><a href="properties.php#goldcoast">Gold Coast - Broadwater Beachfront Properties</a></li>
                         <li><a href="properties.php#broadbeach">Gold Coast - Broadbeach Apartments Near Jupiters Casino</a></li>
-                        <li><a href="properties.php#brisbane">Brisbane - Deception Bay</a></li>
                         <li><a href="properties.php#chermside">Brisbane - Chermside Apartments</a></li>
                         <li><a href="properties.php#labrador">Gold Coast - Labrador</a></li>
                         <li><a href="properties.php#maroochydore">Sunshine Coast - Apartments</a></li>

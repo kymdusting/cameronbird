@@ -10,7 +10,7 @@ $title = 'Home';
 ================================================== -->
 <div id="home" class="site_container container">
 
-    <div class="columns sixteen"><img class="intro" src="images/pictures/36th-year.png" alt="36th Year of Searvice - The Cameron Bird Group" width="250" height="193" />
+    <div class="columns sixteen"><img class="intro" src="images/pictures/37th-year.png" alt="37th Year of Searvice - The Cameron Bird Group" width="250" height="207" />
         <p class="lead">
         The Cameron Bird group has been on the forefront of property investment for over 30 years. The team has dedicated themselves to helping others achieve wealth creation and early retirement through smart property investment.</p>
         <p class="lead">Professionals that not only provide subscribers with a wealth of experience and knowledge but are also backed by an exclusive diversified collection of property investment opportunities.</p>
@@ -51,10 +51,10 @@ $title = 'Home';
         <div class="columns four">
           <div class="recent">
             <h2>Recent listings</h2>
-            <img src="images/pictures/thumb-toowoomba.jpg" alt="Toowoomba home" />
-            <h3>Toowoomba - House and Land / Dual Occupancy / Duplex</h3>
-            <p>The Cameron Bird Group has researched Toowoomba and found the best valued packages in the most prime estates in Toowoomba (Australia's largest inland city) Locations with double digit capital gains and very strong cash flow positive returns.</p>
-            <a href="properties.php#toowoomba" class="btn_readmore arrow_right">Read More<span class="ico_arrow">&rarr;</span></a>
+            <img src="images/pictures/pimpama-thumb.jpg" alt="Pimpama modern kitchen" />
+            <h3>Pimpama - House and Land Packages</h3>
+            <p>9.7% projected population growth each year, every year, until the year 2036! To have an almost double digit projection for the next 21 years is quite remarkable. Population on this scale, with its phenomenally low age demographic really does point to sustainable growth for this rea.</p>
+            <a href="properties.php#pimpama" class="btn_readmore arrow_right">Read More<span class="ico_arrow">&rarr;</span></a>
             <div class="clear"></div>
           </div>
         </div>
