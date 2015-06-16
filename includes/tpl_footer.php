@@ -23,10 +23,10 @@
         	<div class="columns four">
             	<h5>Latest Properties</h5>
                 <ul class="aside_list">
-                    <li><a href="properties.php#goldcoast">Broadwater</a></li>
-                    <li><a href="properties.php#broadbeach">Broadbeach</a></li>
-                    <li><a href="properties.php#thailand">Thailand</a></li>
-                    <li><a href="properties.php#chermside">Chermside</a></li>
+                    <li><a href="properties.php#logan">South East QLD: Logan</a></li>
+                    <li><a href="properties.php#ipswich">South East QLD: Ipswich</a></li>
+                    <li><a href="properties.php#toowoomba">South East QLD: Toowoomba</a></li>
+                    <li><a href="properties.php#pimpama">South East QLD: Pimpama</a></li>
                 </ul>
             </div>
        	  <div class="columns four">
